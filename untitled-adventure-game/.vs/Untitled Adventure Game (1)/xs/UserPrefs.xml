@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{6BE978BB-E660-FCD5-C99C-2C0B05F837DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Character/CharacterController2D.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Menus/OptionsMenu.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/Menus/MainMenu.cs" />
+      <File FileName="Assets/Scripts/Character/CharacterController2D.cs" Line="2" Column="5" />
+      <File FileName="Assets/Scripts/Character/PlayerMovement.cs" />
+      <File FileName="Assets/Door.cs" />
+      <File FileName="Assets/Scripts/Enemies/Projectile.cs" />
+      <File FileName="Assets/Scripts/Enemies/Attack_Projectile.cs" />
+      <File FileName="Assets/LevelChanger.cs" />
+      <File FileName="Assets/Scripts/Enemies/Patrol.cs" />
+      <File FileName="Assets/Scripts/Enemies/FollowBehavior.cs" />
+      <File FileName="Assets/Scripts/Enemies/IdleBehavior.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd02a55a-e718-4493-b187-a4e2493f18ea" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
